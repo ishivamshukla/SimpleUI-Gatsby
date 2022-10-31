@@ -1,3 +1,41 @@
+# Simple UI Gatsby
+
+> ## [Shivam Shukla](https://ishivamshukla.in)
+
+</br>
+
+## Using Technology -
+ - Gatsby
+-  SASS
+-  TypeScript
+-  ReactJS
+-  React-Bootstrap
+-  Charts-css
+
+
+---
+
+### Checkout the live website [here]().
+
+---
+
+## How the website looks like
+
+*Mobile*
+![Mobile](./src/assets/images/gatsby-pic.png)
+<br/>
+
+*Dashboard*
+![Desktop](./src/assets/images/gatsby-pic2.png)
+
+</br>
+
+*Sign In Page*
+![Sign in Page](./src/assets/images/gatsby-pic3.png)
+
+
+
+
 <p align="center">
   <a href="https://www.gatsbyjs.com/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter-ts">
     <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
